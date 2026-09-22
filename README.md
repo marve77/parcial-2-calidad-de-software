@@ -121,8 +121,8 @@ La matriz permite orientar las pruebas y controles hacia los escenarios que repr
 La estrategia propuesta distribuye las pruebas de la siguiente manera:
 
 ```text
-                 /\
-                /  \
+                    /\
+                /        \
                / Manuales \
               /   < 5 %    \
              /--------------\
